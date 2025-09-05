@@ -21,7 +21,7 @@ export default {
           reviews: [
             {
               id: 1,
-              name: "Tom Hanks",
+              name: "Jack Hanks",
               rate: 5,
               description: "Der beste Laptop für mich!",
             },
